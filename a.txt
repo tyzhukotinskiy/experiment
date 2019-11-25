@@ -2,4 +2,8 @@ asldkinitial
 Third commit
 Change in master
 
+<<<<<<< HEAD
 HEAD
+=======
+Testing
+>>>>>>> testing
